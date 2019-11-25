@@ -18,7 +18,7 @@
   "author": "Jasper Zuyderwijk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eouia/MMM-Snowboy/issues"
+    "url": "https://github.com/Zuyderwijk/MMM-Snowboy/issues"
   },
   "dependencies": {
     "node-record-lpcm16": "^0.3.0",
